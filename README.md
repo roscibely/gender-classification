@@ -1,6 +1,6 @@
 # Gender Classification Using Deep Learning
 
-## Donwload the dataset
+## Download the dataset
 
     url = "https://data.brasil.io/dataset/genero-nomes/nomes.csv.gz"
     filename = url.split("/")[-1]
