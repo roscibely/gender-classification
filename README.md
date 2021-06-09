@@ -2,7 +2,7 @@
 
 ## Deep learning models 
 
-Models: CNN, MLP, RNN, ![BiLSTM](https://github.com/roscibely/Gender-Classification/blob/main/models/BiLSTM_model.ipynb), GRU. 
+Models: ![CNN](https://github.com/roscibely/Gender-Classification/blob/main/models/CNN_model.ipynb), ![MLP](https://github.com/roscibely/Gender-Classification/blob/main/models/DNN_model.ipynb), ![RNN](https://github.com/roscibely/Gender-Classification/blob/main/models/RNN_model.ipynb), ![BiLSTM](https://github.com/roscibely/Gender-Classification/blob/main/models/BiLSTM_model.ipynb), ![GRU](https://github.com/roscibely/Gender-Classification/blob/main/models/GRU_model.ipynb). 
 
 Usage is simple. 
 
