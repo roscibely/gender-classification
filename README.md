@@ -1,5 +1,13 @@
 # Gender Classification Using Deep Learning
 
+## Donwload the dataset
+
+    url = "https://data.brasil.io/dataset/genero-nomes/nomes.csv.gz"
+    filename = url.split("/")[-1]
+    with open(filename, "wb") as f:
+        r = requests.get(url)
+        f.write(r.content)
+
 ## Deep learning models 
 
 Models: ![CNN](https://github.com/roscibely/Gender-Classification/blob/main/models/CNN_model.ipynb), ![MLP](https://github.com/roscibely/Gender-Classification/blob/main/models/DNN_model.ipynb), ![RNN](https://github.com/roscibely/Gender-Classification/blob/main/models/RNN_model.ipynb), ![BiLSTM](https://github.com/roscibely/Gender-Classification/blob/main/models/BiLSTM_model.ipynb), ![GRU](https://github.com/roscibely/Gender-Classification/blob/main/models/GRU_model.ipynb). 
