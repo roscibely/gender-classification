@@ -2,11 +2,7 @@
 
 ## Deep learning models 
 
-### CNN
-### MLP 
-### RNN
-### BiLSTM
-### GRU
+Models: CNN, MLP, RNN, ![BiLSTM](https://github.com/roscibely/Gender-Classification/blob/main/models/BiLSTM_model.ipynb), GRU. 
 
 Usage is simple. 
 
