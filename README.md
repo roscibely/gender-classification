@@ -1,5 +1,7 @@
 # Gender Classification Using Deep Learning
 
+We classified the gender of Brazilian names using deep learning. 
+
 ## Download the dataset
 
     url = "https://data.brasil.io/dataset/genero-nomes/nomes.csv.gz"
