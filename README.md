@@ -2,6 +2,8 @@
 
 We classified the gender of Brazilian names using deep learning. See the document ![clik here](https://github.com/roscibely/Gender-Classification/blob/main/PREDICTING%20GENDER%20%20OF%20BRAZILIAN%20NAMES%20USING%20DEEPLEARNING.pdf).
 
+[![Animation](https://github.com/roscibely/Gender-Classification/blob/main/animation.mp4)]
+
 ## Download the dataset
 
     url = "https://data.brasil.io/dataset/genero-nomes/nomes.csv.gz"
