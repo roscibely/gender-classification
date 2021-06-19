@@ -14,7 +14,7 @@ We classified the gender of Brazilian names using deep learning. See the documen
 
 ## Deep learning models 
 
-Models: ![CNN](https://github.com/roscibely/Gender-Classification/blob/main/models/CNN_model.ipynb), ![MLP](https://github.com/roscibely/Gender-Classification/blob/main/models/DNN_model.ipynb), ![RNN](https://github.com/roscibely/Gender-Classification/blob/main/models/RNN_model.ipynb), ![BiLSTM](https://github.com/roscibely/Gender-Classification/blob/main/models/BiLSTM_model.ipynb), ![GRU](https://github.com/roscibely/Gender-Classification/blob/main/models/GRU_model.ipynb). 
+Models: ![CNN](https://github.com/roscibely/Gender-Classification/blob/main/models/CNN.h5), ![MLP](https://github.com/roscibely/Gender-Classification/blob/main/models/DNN.h5), ![RNN](https://github.com/roscibely/Gender-Classification/blob/main/models/RNN.h5), ![BiLSTM](https://github.com/roscibely/Gender-Classification/blob/main/models/LSTM.h5), ![GRU](https://github.com/roscibely/Gender-Classification/blob/main/models/GRU.h5). 
 
 Usage is simple. 
 
