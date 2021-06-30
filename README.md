@@ -26,3 +26,11 @@ Usage is simple.
       print('F')
       
     out: F
+
+    @article{Rego2021PredictingGO,
+        title={Predicting gender of Brazilian names using deep learning},
+        author={Rosana C. B. Rego and Veronica M. L. Silva},
+        journal={ArXiv},
+        year={2021},
+        volume={abs/2106.10156}
+    }
