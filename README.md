@@ -26,6 +26,8 @@ Usage is simple.
       print('F')
       
     out: F
+    
+   ## How cite 
 
     @article{Rego2021PredictingGO,
         title={Predicting gender of Brazilian names using deep learning},
