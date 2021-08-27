@@ -1,6 +1,6 @@
 # Predicting gender of Brazilian names using deep learning
 
-We classified the gender of Brazilian names using deep learning. See the document ![here](https://raw.githubusercontent.com/roscibely/Gender-Classification/main/PREDICTING%20GENDER%20OF%20BRAZILIAN%20NAMES%20USING%20DEEPLEARNING.pdf).
+We classified the gender of Brazilian names using deep learning. See the document ![here](https://arxiv.org/abs/2106.10156v1).
 
 ![Animation](https://github.com/roscibely/Gender-Classification/blob/main/animation.gif)
 
