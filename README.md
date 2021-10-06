@@ -17,6 +17,7 @@ We classified the gender of Brazilian names using deep learning. See the documen
 Models: ![CNN](https://github.com/roscibely/Gender-Classification/blob/main/models/CNN.h5), ![MLP](https://github.com/roscibely/Gender-Classification/blob/main/models/DNN.h5), ![RNN](https://github.com/roscibely/Gender-Classification/blob/main/models/RNN.h5), ![BiLSTM](https://github.com/roscibely/Gender-Classification/blob/main/models/LSTM.h5), ![GRU](https://github.com/roscibely/Gender-Classification/blob/main/models/GRU.h5). 
 
 Usage is simple. 
+´´´python
 
     testename = prepare_encod_names({"cibely"})   # name are encod as a vector of numbers
     resu=(LSTMmodel.predict(testename) > 0.5).astype("int32")
@@ -26,13 +27,10 @@ Usage is simple.
       print('F')
       
     out: F
+ ´´´   
+ ## Papers
     
-   ## How cite 
-
-    @article{Rego2021PredictingGO,
-        title={Predicting gender of Brazilian names using deep learning},
-        author={Rosana C. B. Rego and Veronica M. L. Silva},
-        journal={ArXiv},
-        year={2021},
-        volume={abs/2106.10156}
-    }
+  Rego, R. C., Silva, V. M. & Fernandes, V. M. (2021). [Predicting Gender by First Name Using Character-level Machine Learning](https://arxiv.org/abs/2106.10156v2). arXiv preprint arXiv:2106.10156 v2.  
+  
+ Rego, R. C., & Silva, V. M. (2021). [Predicting gender of Brazilian names using deep learning](https://arxiv.org/abs/2106.10156v1). arXiv preprint arXiv:2106.10156 v1.   
+    
