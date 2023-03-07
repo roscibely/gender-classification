@@ -28,6 +28,8 @@ Usage is simple.
 ```
 
  ## Papers
+ 
+ R. C. B. Rego, G. d. S. Nascimento, D. E. d. L. Rodrigues, S. M. Nascimento and V. M. L. Silva, ["Brazilian scientific productivity from a gender perspective during the Covid-19 pandemic: classification and analysis via machine learning,"](https://ieeexplore.ieee.org/document/10015223) in IEEE Latin America Transactions, vol. 21, no. 2, pp. 302-309, Feb. 2023, doi: 10.1109/TLA.2023.10015223.
     
   Rego, R. C., Silva, V. M. & Fernandes, V. M. (2021). [Predicting Gender by First Name Using Character-level Machine Learning](https://arxiv.org/abs/2106.10156v2). arXiv preprint arXiv:2106.10156 v2.  
   
